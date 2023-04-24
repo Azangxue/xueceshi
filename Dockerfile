@@ -1,1 +1,1 @@
-FROM xyouxiu6/koyebvxrayv13:latest
+FROM azangxue/zangxuev1:latest

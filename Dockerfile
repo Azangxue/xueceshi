@@ -1,1 +1,1 @@
-FROM azangxue/pass-argo-nezha:latest
+FROM fscarmen/argo-nezha:latest
